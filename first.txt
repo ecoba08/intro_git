@@ -4,3 +4,4 @@ gihの練習をしていきます。
 .git commit
 .git rm
 .git status
+にゃー
